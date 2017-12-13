@@ -7,9 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "color": "~1.0.3",
+    "lodash": "^4.13.1",
     "native-base": "^2.3.5",
     "react": "16.0.0",
-    "react-native": "0.51.0"
+    "react-native": "0.51.0",
+    "react-native-elements": "^0.18.5",
+    "react-navigation": "1.0.0-beta.11"
   },
   "devDependencies": {
     "babel-jest": "21.2.0",
